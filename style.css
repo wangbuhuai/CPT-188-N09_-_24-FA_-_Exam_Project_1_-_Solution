@@ -1,0 +1,73 @@
+/* Created by Dayu Wang (dwang@stchas.edu) on 2024-10-01 */
+
+/* Last updated by Dayu Wang (dwang@stchas.edu) on 2024-10-01 */
+
+
+body {
+    background-color: whitesmoke;
+    color: black;
+    display: block;
+    font-family: Verdana, sans-serif;
+    font-size: 11pt;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 6pt;
+    text-align: left;
+    width: 800px;
+}
+
+button {
+    color: blue;
+    font-family: Verdana, sans-serif;
+    font-size: 12pt;
+    height: 50px;
+    margin: 0;
+    outline: none;
+    padding: 0;
+    vertical-align: middle;
+    width: 30px;
+}
+
+button:focus {
+    outline: none;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+#buttons {
+    display: block;
+    margin: 28pt auto 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+#decimal-num {
+    display: block;
+    margin: 16pt auto 0 auto;
+    width: 200px;
+}
+
+#developer {
+    color: blue;
+    font-weight: bold;
+}
+
+#developer-info {
+    font-style: italic;
+    margin-top: 18pt;
+    text-align: center;
+}
+
+#result {
+    color: blue;
+    font-size: 12pt;
+}
+
+#title {
+    font-size: 14pt;
+    font-weight: bold;
+    text-align: center;
+}
